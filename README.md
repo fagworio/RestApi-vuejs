@@ -1,6 +1,9 @@
-Hello
+To run the project files.
 
-project-api
-php -S localhost:9090 public/index.php
+### Run
+#### Apache
+-php -S localhost:9090 public/index.php
 
-npm run dev
+### Webpack
+#### node server
+-npm run dev
